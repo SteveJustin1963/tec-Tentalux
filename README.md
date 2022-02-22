@@ -1,4 +1,4 @@
-# tec-tentalux
+# tec-Tentalux
 tec1 version of tentalux
  
 ## ref 
